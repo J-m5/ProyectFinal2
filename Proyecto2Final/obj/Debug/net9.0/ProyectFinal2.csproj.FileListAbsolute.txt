@@ -1,0 +1,46 @@
+C:\programcion visual\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\ProyectFinal2.exe
+C:\programcion visual\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\ProyectFinal2.deps.json
+C:\programcion visual\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\ProyectFinal2.runtimeconfig.json
+C:\programcion visual\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\ProyectFinal2.dll
+C:\programcion visual\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\ProyectFinal2.pdb
+C:\programcion visual\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\programcion visual\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\programcion visual\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\programcion visual\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\programcion visual\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\programcion visual\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\programcion visual\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\programcion visual\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.csproj.AssemblyReference.cache
+C:\programcion visual\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\programcion visual\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.AssemblyInfoInputs.cache
+C:\programcion visual\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.AssemblyInfo.cs
+C:\programcion visual\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.csproj.CoreCompileInputs.cache
+C:\programcion visual\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectF.96FF92DF.Up2Date
+C:\programcion visual\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.dll
+C:\programcion visual\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\refint\ProyectFinal2.dll
+C:\programcion visual\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.pdb
+C:\programcion visual\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.genruntimeconfig.cache
+C:\programcion visual\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ref\ProyectFinal2.dll
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\ProyectFinal2.exe
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\ProyectFinal2.deps.json
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\ProyectFinal2.runtimeconfig.json
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\ProyectFinal2.dll
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\ProyectFinal2.pdb
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.AssemblyInfo.cs
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectF.96FF92DF.Up2Date
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.dll
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\refint\ProyectFinal2.dll
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.pdb
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ProyectFinal2.genruntimeconfig.cache
+C:\Users\maria\Desktop\ProyectFinal2\ProyectFinal2\obj\Debug\net9.0\ref\ProyectFinal2.dll
